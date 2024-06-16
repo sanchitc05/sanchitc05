@@ -4,7 +4,7 @@
 
 <div align="center"> 
     <h1> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Hey..+I'm+sanchit;Welcome+to+my+Github+profile!;Passionate+about+Coding!;Exploring+new+technologies!;Let's+code+together!" alt="Typing SVG"/> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Hey..+I'm+Sanchit+Chauhan;Welcome+to+my+Github+profile!;Passionate+about+Coding!;Exploring+new+technologies!;Let's+code+together!" alt="Typing SVG"/> 
     </h1>
 </div>
 
@@ -12,7 +12,7 @@
 
 Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
 <div id="badges" align = "center">  
-  <a href="https://www.linkedin.com/in/sanchit-chauhan-90009523a/">
+  <a href="https://www.linkedin.com/in/sanchitc05/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://github.com/sanchitc05">
