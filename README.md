@@ -20,7 +20,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
   </a>
 </div>              
 <h2 >👩‍💻About me : </h2>
-    🎓 Enthused Computer Science student at CT University, dedicated to constantly developing my skillset. <br><br>
+    🎓 Enthused Computer Science student at CT University, constantly evolving my skillset to learn Data Science. <br><br>
     🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts alike.  <br><br>
     🚀 Excited to learn, collaborate, and make a positive impact in the tech world!  <br><br>
     📩 Get in touch: 
