@@ -34,7 +34,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitc05&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 My Stats :
-Peek into my GitHub stats to check out my digital journey! <br> <br>
+Peek into my GitHub stats to check out my digital coding journey! <br> <br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sanchitc05&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/sanchitc05) <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanchitc05&theme=dark)](https://git.io/streak-stats)
 
