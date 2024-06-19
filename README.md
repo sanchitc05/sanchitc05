@@ -16,7 +16,10 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://github.com/sanchitc05">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://x.com/sanchitc05">
+    <img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
 </div>              
 <h2 >👩‍💻About me : </h2>
