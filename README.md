@@ -4,7 +4,7 @@
 
 <div align="center"> 
     <h1> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Hey..+I'm+Sanchit+Chauhan;Welcome+to+my+Github+profile!;Aspiring+Data+Scientist!;Exploring+new+technologies!;Let's+code+together!" alt="Typing SVG"/> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Hey...+I'm+Sanchit+Chauhan;Welcome+to+my+Github+profile!;Aspiring+Data+Scientist!;Exploring+new+technologies!;Let's+code+together!" alt="Typing SVG"/> 
     </h1>
 </div>
 
