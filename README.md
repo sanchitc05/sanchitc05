@@ -25,7 +25,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 <h2 >👩‍💻About me : </h2>
     🎓 Enthused CSE student graduating from CTU in 2027, constantly evolving my skillset to learn Data Science. <br><br>
     🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts alike.  <br><br>
-    🚀 Excited to learn, collaborate, and make a positive impact in this world!  <br><br>
+    🚀 Excited to learn, collaborate, and positively impact this world!  <br><br>
     📩 Get in touch: 
     <a href="mailto:sanchitchauhan005@gmail.com">sanchitchauhan005@gmail.com</a>
 <h2>:hammer_and_wrench: Languages and Tools : <h2>
