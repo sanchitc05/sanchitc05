@@ -10,7 +10,7 @@
 
 <h2 >🔗Get in touch :</h2>         
 
-Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
+Hello, fellow coder!🖐️ Welcome to my GitHub profile! Reach out to me on the following platforms: <br> <br>
 <div id="badges" align = "center">
    <a href="https://github.com/sanchitc05">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
