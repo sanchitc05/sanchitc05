@@ -23,7 +23,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Reach out to me on the
   </a>
 </div>              
 <h2 >👩‍💻About me : </h2>
-    🎓 Enthused CSE student graduating from CTU in 2027, constantly evolving my skillset to learn Data Science. <br><br>
+    🎓 Enthused CSE student graduating from CTU in 2027, constantly evolving my skillset to cope with the latest trends in Data Science & AI. <br><br>
     🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts alike.  <br><br>
     🚀 Excited to learn, collaborate, and positively impact this world!  <br><br>
     📩 Get in touch: 
