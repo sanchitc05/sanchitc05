@@ -45,7 +45,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Reach out to me on the
 
 ## 📊 My Stats :
 Peek into my GitHub stats to check out my digital coding journey! <br> <br>
-<a href="https://github.com/Ramsey99/github-readme-stats"><img width=100% src="https://github-profile-trophy.vercel.app/?username=neeru24&theme=radical&no-frame=true&no-bg=true&margin-w=4"></a>
+<a href="https://github.com/Ramsey99/github-readme-stats"><img width=100% src="https://github-profile-trophy.vercel.app/?username=sanchitc05&theme=radical&no-frame=true&no-bg=true&margin-w=4"></a>
 
 <br>
 
