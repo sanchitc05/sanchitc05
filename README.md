@@ -27,7 +27,13 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Reach out to me on the
     🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts alike.  <br><br>
     🚀 Excited to learn, collaborate, and positively impact this world!  <br><br>
     📩 Get in touch: 
-    <a href="mailto:sanchitchauhan005@gmail.com">sanchitchauhan005@gmail.com</a>
+    <a href="mailto:sanchitchauhan005@gmail.com">sanchitchauhan005@gmail.com</a>  <br><br>
+
+<!--view count-->
+<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=sanchitc05&&style=for-the-badge" /> </p>
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h2>:hammer_and_wrench: Languages and Tools : <h2>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
