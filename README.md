@@ -31,16 +31,24 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Reach out to me on the
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h2>:hammer_and_wrench: Languages and Tools : <h2>
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages and Tools</h1>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img margin="8px" src="https://skillicons.dev/icons?i=html,css,js,python" />
+  </a>
+</p>
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitc05&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 My Stats :
 Peek into my GitHub stats to check out my digital coding journey! <br> <br>
+<a href="https://github.com/Ramsey99/github-readme-stats"><img width=100% src="https://github-profile-trophy.vercel.app/?username=neeru24&theme=radical&no-frame=true&no-bg=true&margin-w=4"></a>
+
+<br>
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sanchitc05&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/sanchitc05) <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanchitc05&theme=dark)](https://git.io/streak-stats)
 
