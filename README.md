@@ -8,7 +8,7 @@
     </h1>
 </div>
 
-<h2 >🔗Get in touch :</h2>         
+<h2 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="35" height="35" /> Get in touch :</h2>         
 
 Hello, fellow coder!🖐️ Welcome to my GitHub profile! Reach out to me on the following platforms: <br> <br>
 <div id="badges" align = "center">
@@ -22,7 +22,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Reach out to me on the
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
 </div>              
-<h2 >👩‍💻About me : </h2>
+<h2 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> About me : </h2>
     🎓 Enthused CSE student graduating from CTU in 2027, constantly evolving my skillset to cope with the latest trends in Data Science & AI. <br><br>
     🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts alike.  <br><br>
     🚀 Excited to learn, collaborate, and positively impact this world!  <br><br>
@@ -48,7 +48,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Reach out to me on the
 <a href="https://github.com/Ramsey99/github-readme-stats"><img width=100% src="https://github-profile-trophy.vercel.app/?username=sanchitc05&theme=github_dark&no-frame=true&no-bg=true&margin-w=4"></a>
 
 <br>
-<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> GitHub Stats </h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="35" height="40" /> GitHub Stats </h1>
 <div align="left" width="50%">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitc05&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Ananya's GitHub Streak" /></p>
 </div>
