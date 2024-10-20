@@ -43,7 +43,8 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Reach out to me on the
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitc05&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📊 My Trophies :
+## <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="35" height="25" /> My Trophies </h1>
+<div align="left">
 <a href="https://github.com/Ramsey99/github-readme-stats"><img width=100% src="https://github-profile-trophy.vercel.app/?username=sanchitc05&theme=github_dark&no-frame=true&no-bg=true&margin-w=4"></a>
 
 <br>
