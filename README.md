@@ -43,14 +43,24 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Reach out to me on the
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitc05&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📊 My Stats :
-Peek into my GitHub stats to check out my digital coding journey! <br> <br>
-<a href="https://github.com/Ramsey99/github-readme-stats"><img width=100% src="https://github-profile-trophy.vercel.app/?username=sanchitc05&theme=radical&no-frame=true&no-bg=true&margin-w=4"></a>
+## 📊 My Trophies :
+<a href="https://github.com/Ramsey99/github-readme-stats"><img width=100% src="https://github-profile-trophy.vercel.app/?username=sanchitc05&theme=github_dark&no-frame=true&no-bg=true&margin-w=4"></a>
 
 <br>
+<h1 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h1>
+<div align="left" width="50%">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitc05&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Ananya's GitHub Streak" /></p>
+</div>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sanchitc05&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/sanchitc05) <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanchitc05&theme=dark)](https://git.io/streak-stats)
+<div align="left">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanchitc05&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanchitc05&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanchitc05&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanchitc05&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanchitc05&theme=github_dark" />
+</div>
+<br>
+<div align="center">
 
 #### 🔍 Profile views :
 ![Visitor Count](https://profile-counter.glitch.me/{sanchitc05}/count.svg)
