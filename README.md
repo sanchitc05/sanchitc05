@@ -43,12 +43,12 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Reach out to me on the
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitc05&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-## <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="35" height="25" /> My Trophies </h1>
+## <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="40" /> My Trophies </h1>
 <div align="left">
 <a href="https://github.com/Ramsey99/github-readme-stats"><img width=100% src="https://github-profile-trophy.vercel.app/?username=sanchitc05&theme=github_dark&no-frame=true&no-bg=true&margin-w=4"></a>
 
 <br>
-<h1 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> GitHub Stats </h1>
 <div align="left" width="50%">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitc05&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Ananya's GitHub Streak" /></p>
 </div>
