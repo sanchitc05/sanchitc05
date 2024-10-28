@@ -38,7 +38,6 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Reach out to me on the
     <img margin="8px" src="https://skillicons.dev/icons?i=html,css,js,python" />
   </a>
 </p>
-
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitc05&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
