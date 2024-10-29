@@ -10,7 +10,7 @@
 
 <h2 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="35" height="35" /> Get in touch :</h2>         
 
-Hello, fellow coder!🖐️ Welcome to my GitHub profile! Reach out to me on the following platforms: <br> <br>
+Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on the following platforms: <br> <br>
 <div id="badges" align = "center">
    <a href="https://github.com/sanchitc05">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
