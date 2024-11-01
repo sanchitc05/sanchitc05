@@ -5,7 +5,7 @@
 <div align="center">    
     <h1> 
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Hey...+I'm+Sanchit+Chauhan;Welcome+to+my+Github+profile!;Aspiring+Data+Scientist!;Exploring+new+tech+stacks!;Let's+code+together!" alt="Typing SVG"/> 
-    </h1>
+    </h1>  
 </div>
 
 <h2 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="35" height="35" /> Get in touch :</h2>         
