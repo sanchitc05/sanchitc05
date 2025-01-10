@@ -8,20 +8,7 @@
     </h1>  
 </div>
 
-<h2 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="35" height="35" /> Get in touch :</h2>         
-
-Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on the following platforms: <br> <br>
-<div id="badges" align = "center">
-   <a href="https://github.com/sanchitc05">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
- <a href="https://www.linkedin.com/in/sanchitc05/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/sanchitc05">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
-  </a>
-</div>              
+              
 <h2 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> About Me </h2>
 
 - 🎓 B.Tech CSE student (Class of 2027) with a passion for Data Science & AI.
@@ -33,6 +20,22 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 - 💡 Eager to collaborate on impactful projects and connect with professionals.
 
 - 📩 Reach me at: [sanchitchauhan005@gmail.com](mailto:sanchitchauhan005@gmail.com).
+
+
+<h2 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="35" height="35" /> Get in touch </h2>         
+
+Reach out to me on the following platforms 😄: <br> <br>
+<div id="badges" align = "center">
+   <a href="https://github.com/sanchitc05">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+ <a href="https://www.linkedin.com/in/sanchitc05/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/sanchitc05">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
+  </a>
+</div>
 
 <br>
 
