@@ -22,12 +22,19 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
 </div>              
-<h2 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> About me : </h2>
-    🎓 Enthused CSE student graduating from CTU in 2027, constantly evolving my skillset to cope with the latest trends in Data Science & AI. <br><br>
-    🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts alike.  <br><br>
-    🚀 Excited to collaborate, learn, and positively impact this world!  <br><br>
-    📩 Get in touch: 
-    <a href="mailto:sanchitchauhan005@gmail.com">sanchitchauhan005@gmail.com</a>  <br><br>
+<h2 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> About Me </h2>
+
+- 🎓 B.Tech CSE student (Class of 2027) with a passion for Data Science & AI.
+
+- 🌐 Open-Source Contributor: Ranked 86th in GirlScript Summer of Code extd 2024.
+
+- 🚀 Currently a Project Admin at Social Window of Code.
+
+- 💡 Eager to collaborate on impactful projects and connect with professionals.
+
+- 📩 Reach me at: [sanchitchauhan005@gmail.com](mailto:sanchitchauhan005@gmail.com).
+
+<br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
