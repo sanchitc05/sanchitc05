@@ -19,7 +19,7 @@
 
 - 💡 Eager to collaborate on impactful projects and connect with professionals.
 
-- 📩 Reach me at: [sanchitchauhan005@gmail.com](mailto:sanchitchauhan005@gmail.com).
+- 📩 Reach out to me: [sanchitchauhan005@gmail.com](mailto:sanchitchauhan005@gmail.com).
 
 
 <h2 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="35" height="35" /> Get in touch </h2>         
