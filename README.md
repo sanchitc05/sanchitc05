@@ -17,7 +17,7 @@
 
 - 🚀 Currently a Project Admin at Social Window of Code.
 
-- 💡 Eager to collaborate on impactful projects and connect with professionals.
+- 💡 Eager to collaborate on impactful projects and connect with like minded.
 
 - 📩 Reach out to me: [sanchitchauhan005@gmail.com](mailto:sanchitchauhan005@gmail.com).
 
