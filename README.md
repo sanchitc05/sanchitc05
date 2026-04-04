@@ -1,81 +1,70 @@
-# 🚀 Sanchit Chauhan | AI & Data Science Specialist
+# 🚀 Sanchit Chauhan | AI & Data Science Engineer
 
-### Engineering intelligent solutions by bridging the gap between Data and Impact.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20DS)-4FC3F7?style=flat-square&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-GirlScript%20'24-FFB300?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-100%20Days%20Certified-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
+**B.Tech CSE (AI & DS Specialization) | Architecting Agentic Systems & LLM-Powered Applications**
+*Developing intelligent workflows through RAG, Large Language Models, and Scalable Software.*
 
 ---
 
 ### 👨‍💻 About Me
-I am a 3rd-year **B.Tech Computer Science student** specializing in **Artificial Intelligence and Data Science**. My journey is fueled by a deep curiosity about how data can solve real-world problems. From building neural text summarizers to architecting full-stack AI-integrated web apps, I thrive on creating software that is both robust and intelligent.
+I am a 3rd-year **Computer Science student** specializing in the intersection of **Software Engineering** and **Applied AI**. My focus is on building systems that don't just process data but understand it—leveraging **LLMs**, **RAG pipelines**, and **Agentic workflows** to solve high-complexity technical challenges.
 
-**What I Bring:**
-- **Analytical Precision:** Expertise in Python, NumPy, and Pandas for complex data interpretation.
-- **Architectural Depth:** Capable of building scalable backends with Django and interactive frontends.
-- **AI-First Mindset:** Actively exploring RAG (Retrieval-Augmented Generation) and LLMs to build the next generation of AI applications.
+### 💡 What I Bring
+- **Intelligence Orchestration:** Developing **RAG (Retrieval-Augmented Generation)** pipelines to provide LLMs with precise, local context.
+- **Agentic Design:** Exploring and implementing autonomous agent workflows for deterministic task execution.
+- **Full-Cycle Data Proficiency:** Advanced data manipulation with Pandas/NumPy and predictive modeling with Scikit-Learn.
+- **Architectural Versatility:** Building high-performance backends (FastAPI, Django) and responsive frontends (React) to host AI-native applications.
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
+### 🛠️ Tech Stack
 
-| Category | Skills |
+| Category | Specialized Skills |
 | :--- | :--- |
+| **AI & LLM Stack** | ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-F9AB00?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) ![Vector DBs](https://img.shields.io/badge/-Vector%20DBs%20(Exploring)-4B8BBE?style=flat-square) |
 | **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Data Science** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square) ![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
 | **Frameworks** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| **Data & AI** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square) ![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter) |
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 📝 [Briefly: Neural Text Compression Engine](https://github.com/sanchitc05)
-*   **The Problem:** Information overload in long-form legal and technical documents.
-*   **The Solution:** Built an NLP-based summarizer using Python and Transformers to extract core insights with 90% accuracy in context retention.
-*   **Tech Stack:** `Python`, `NLTK`, `HuggingFace Transformers`, `Streamlit`.
-*   **Impact:** Reduced reading time by ~70% for test documents.
+#### 📂 [CodeRAG: Context-Aware Intelligence for Codebases](https://github.com/sanchitc05)
+*   **The Problem:** LLMs often struggle with deep, project-specific context in large repositories.
+*   **The Solution:** A **RAG-based** system that indexes local source code into a vector database, enabling precise, context-aware debugging and architectural explanations.
+*   **Core Tech:** `Python`, `LangChain`, `Vector Stores`, `OpenAI / Open-source LLMs`.
+*   **Impact:** Bridges the gap between generic AI knowledge and private codebase logic.
 
-#### 🗺️ [Voyager: Context-Aware Travel Planner](https://github.com/sanchitc05)
-*   **The Problem:** Generic travel itineraries that don't account for user-specific constraints or real-time data.
-*   **The Solution:** Developed a smart planner that generates optimized itineraries based on user preferences and location data.
+#### 📝 [NeuralSift: LLM-Driven Text Compression](https://github.com/sanchitc05)
+*   **The Problem:** Dense technical and legal papers require significant human synthesis time.
+*   **The Solution:** An advanced summarization engine leveraging **Large Language Models** and Transformer architectures to distill core insights with zero context bleed.
+*   **Core Tech:** `Python`, `HuggingFace`, `PyTorch`, `Streamlit`.
+*   **Impact:** Reduced document synthesis time by ~80% during pilot testing.
+
+#### 🗺️ [Trip Tailor: Intelligent Travel Orchestrator](https://github.com/sanchitc05)
+*   **Concept:** A context-aware web application for zero-effort itinerary planning.
 *   **Tech Stack:** `Django`, `Python`, `Google Maps API`, `JavaScript`.
-*   **Impact:** Handled multi-city logic with custom heuristics for budget optimization.
-
-#### 📈 [StockSense: Market Analysis Suite](https://github.com/sanchitc05)
-*   **The Problem:** Making sense of volatile market data through raw spreadsheets.
-*   **The Solution:** A specialized data analysis dashboard to visualize trends and perform predictive modeling on historical stock data.
-*   **Tech Stack:** `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-Learn`.
-*   **Impact:** Identified high-alpha signals with automated volatility scoring.
+*   **Impact:** Managed multi-constraint resolution for budget and geographical optimization.
 
 ---
 
-### 🏆 Key Achievements
-- **GirlScript Summer of Code (GSOC '24 Extd):** Ranked **86th globally** out of thousands of contributors, delivering high-impact code for diverse open-source ecosystems.
-- **100 Days of Code (Python & Data Science):** Completed a rigorous 100-day challenge, building 100+ micro-projects ranging from automation scripts to ML model deployments.
-- **Project Admin @ Social Window of Code:** Managing open-source repository health, reviewing PRs, and mentoring contributors on best practices.
+### 🏆 Achievements & Metrics
+- **GirlScript Summer of Code (Extd 2024):** Ranked **#86 Globally**.
+    - Optimized system workflows and resolved technical debt across major OS ecosystems.
+- **100 Days of Code (AI & Data Science):** 100+ consecutive days of building and deploying functional AI/ML utilities.
 
 ---
 
-### 🔭 Currently Exploring
-I am currently deep-diving into **Generative AI** and **RAG Frameworks**. My goal is to build context-aware AI agents that can interact with private datasets effectively.
+### 🔭 Current Work & Research
+- **Agentic AI:** Developing autonomous "Developer Agents" capable of multi-step task planning.
+- **SLM Optimization:** Exploring **Small Language Models (SLMs)** for efficient, low-latency inferencing on edge devices.
+- **RAG Architecture:** Scaling **CodeRAG** to handle microservice architectures with inter-dependent repositories.
 
 ---
 
-### 📊 My GitHub Journey
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanchitc05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitc05&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🤝 Let's Connect
-I'm always open to discussing AI, Data Science, or early-stage software architecture.
+### 🤝 Connect & Collaborate
+*Seeking **Summer 2025 Internships** and R&D roles in AI/ML Engineering.*
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sanchitc05/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -83,7 +72,14 @@ I'm always open to discussing AI, Data Science, or early-stage software architec
   <a href="mailto:sanchitchauhan005@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
+
 <p align="center">
-  <i>"Data is everything, but insights are the future."</i> <br>
-  Built with ❤️ by Sanchit Chauhan
+  <img src="https://github-readme-stats.vercel.app/api?username=sanchitc05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitc05&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <i>"Building the future, one token at a time."</i> <br>
+  © 2026 Sanchit Chauhan
 </p>
