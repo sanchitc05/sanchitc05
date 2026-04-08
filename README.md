@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a 3rd-year **Computer Science student** specializing in the intersection of **Software Engineering** and **Applied AI**. My focus is on building systems that don't just process data but understand it—leveraging **LLMs**, **RAG pipelines**, and **Agentic workflows** to solve high-complexity technical challenges.
+I am a 3rd-year **Computer Science student** specializing in the intersection of **Full Stack Development** and **Applied AI**. My focus is on building systems that don't just process data but understand it—leveraging **LLMs**, **RAG pipelines**, and **Agentic workflows** to solve high-complexity technical challenges.
 
 ### 💡 What I Bring
 - **Intelligence Orchestration:** Developing **RAG (Retrieval-Augmented Generation)** pipelines to provide LLMs with precise, local context.
@@ -66,7 +66,7 @@ I am a 3rd-year **Computer Science student** specializing in the intersection of
 ---
 
 ### 🤝 Connect & Collaborate
-*Seeking **Summer 2025 Internships** and R&D roles in AI/ML Engineering.*
+*Seeking **Summer 2026 Internships** and R&D roles in AI/ML Engineering.*
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sanchitc05/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -76,10 +76,12 @@ I am a 3rd-year **Computer Science student** specializing in the intersection of
 
 ---
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanchitc05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitc05&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+-->
 
 <p align="center">
   <i>"Building the future, one token at a time."</i> <br>
