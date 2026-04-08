@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a 3rd-year **Computer Science student** specializing in the intersection of **Software Engineering** and **Applied AI**. My focus is on building systems that don't just process data but understand it—leveraging **LLMs**, **RAG pipelines**, and **Agentic workflows** to solve high-complexity technical challenges.
+I am a 3rd-year **Computer Science student** specializing in the intersection of **Full Stack Development** and **Applied AI**. My focus is on building systems that don't just process data but understand it—leveraging **LLMs**, **RAG pipelines**, and **Agentic workflows** to solve high-complexity technical challenges.
 
 ### 💡 What I Bring
 - **Intelligence Orchestration:** Developing **RAG (Retrieval-Augmented Generation)** pipelines to provide LLMs with precise, local context.
