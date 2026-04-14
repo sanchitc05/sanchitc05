@@ -1,0 +1,46 @@
+name: Update GitHub Charts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/update_github_charts.py"
+      - "README.md"
+
+permissions:
+  contents: write
+
+jobs:
+  update-charts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh README charts
+        run: python scripts/update_github_charts.py
+        env:
+          GITHUB_PROFILE_USER: sanchitc05
+
+      - name: Commit updated README
+        run: |
+          if git diff --quiet; then
+            echo "No README changes detected."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update live GitHub charts [skip ci]"
+          git push
