@@ -28,6 +28,22 @@ I am a 3rd-year **Computer Science student** specializing in the intersection of
 | **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Cloud & DevOps**| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
+<details>
+<summary><strong>View contribution charts</strong></summary>
+
+<br>
+
+<!-- LIVE_GITHUB_CHARTS:START -->
+<p align="center">
+  <img src="https://quickchart.io/chart?format=svg&width=700&height=420&backgroundColor=white&c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22CSS%22%2C%22Jupyter%20Notebook%22%2C%22HTML%22%2C%22JavaScript%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B8%2C1%2C1%2C1%2C1%5D%2C%22backgroundColor%22%3A%5B%22%230f172a%22%2C%22%232563eb%22%2C%22%2314b8a6%22%2C%22%23f97316%22%2C%22%23a855f7%22%2C%22%23ef4444%22%2C%22%2322c55e%22%2C%22%23eab308%22%5D%2C%22borderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22bottom%22%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Primary%20Languages%20Across%20My%20Own%20GitHub%20Repos%22%7D%7D%7D%7D" width="48%" alt="Primary languages across my own GitHub repos" />
+  <img src="https://quickchart.io/chart?format=svg&width=700&height=420&backgroundColor=white&c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Other%20/%20custom%22%2C%22Django%22%2C%22Flask%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B10%2C1%2C1%5D%2C%22backgroundColor%22%3A%5B%22%230f172a%22%2C%22%232563eb%22%2C%22%2314b8a6%22%2C%22%23f97316%22%2C%22%23a855f7%22%2C%22%23ef4444%22%2C%22%2322c55e%22%2C%22%23eab308%22%5D%2C%22borderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22bottom%22%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Framework%20/%20Stack%20Signals%20Across%20My%20Own%20GitHub%20Repos%22%7D%7D%7D%7D" width="48%" alt="Framework and stack signals across my own GitHub repos" />
+</p>
+
+<p align="center"><sub>Charts are refreshed from GitHub profile data by a scheduled workflow.</sub></p>
+<!-- LIVE_GITHUB_CHARTS:END -->
+
+</details>
+
 ---
 
 ### 🌟 Featured Projects
@@ -76,27 +92,12 @@ I am a 3rd-year **Computer Science student** specializing in the intersection of
 
 ---
 
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanchitc05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitc05&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
-<details>
-<summary><strong>View contribution charts</strong></summary>
-
-<br>
-
-<!-- LIVE_GITHUB_CHARTS:START -->
-<p align="center">
-  <img src="https://quickchart.io/chart?format=svg&width=700&height=420&backgroundColor=white&c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22Mixed%20/%20unknown%22%2C%22CSS%22%2C%22Jupyter%20Notebook%22%2C%22HTML%22%2C%22JavaScript%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B7%2C1%2C1%2C1%2C1%2C1%5D%2C%22backgroundColor%22%3A%5B%22%230f172a%22%2C%22%232563eb%22%2C%22%2314b8a6%22%2C%22%23f97316%22%2C%22%23a855f7%22%2C%22%23ef4444%22%2C%22%2322c55e%22%2C%22%23eab308%22%5D%2C%22borderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22bottom%22%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Primary%20Languages%20Across%20My%20Own%20GitHub%20Repos%22%7D%7D%7D%7D" width="48%" alt="Primary languages across my own GitHub repos" />
-  <img src="https://quickchart.io/chart?format=svg&width=700&height=420&backgroundColor=white&c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Other%20/%20custom%22%2C%22Django%22%2C%22Flask%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B10%2C1%2C1%5D%2C%22backgroundColor%22%3A%5B%22%230f172a%22%2C%22%232563eb%22%2C%22%2314b8a6%22%2C%22%23f97316%22%2C%22%23a855f7%22%2C%22%23ef4444%22%2C%22%2322c55e%22%2C%22%23eab308%22%5D%2C%22borderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22bottom%22%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Framework%20/%20Stack%20Signals%20Across%20My%20Own%20GitHub%20Repos%22%7D%7D%7D%7D" width="48%" alt="Framework and stack signals across my own GitHub repos" />
-</p>
-
-<p align="center"><sub>Charts are refreshed from GitHub profile data by a scheduled workflow.</sub></p>
-<!-- LIVE_GITHUB_CHARTS:END -->
-
-</details>
+-->
 
 <p align="center">
   <i>"Building the future, one token at a time."</i> <br>
